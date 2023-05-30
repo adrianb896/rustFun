@@ -1,2 +1,1 @@
-# rustFun
- Rust hw
+# learning rust
