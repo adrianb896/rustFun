@@ -1,0 +1,10 @@
+[package]
+name = "rustFun"
+version = "0.1.0"
+authors = ["Adrian Bernardino"]
+
+[[bin]]
+name = "my_binary"
+path = "src/main.rs"
+
+[dependencies]
